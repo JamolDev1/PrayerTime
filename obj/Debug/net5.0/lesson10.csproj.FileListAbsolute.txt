@@ -1,0 +1,16 @@
+/home/jamol/bootcamp-1-main/lesson10/bin/Debug/net5.0/lesson10
+/home/jamol/bootcamp-1-main/lesson10/bin/Debug/net5.0/lesson10.deps.json
+/home/jamol/bootcamp-1-main/lesson10/bin/Debug/net5.0/lesson10.runtimeconfig.json
+/home/jamol/bootcamp-1-main/lesson10/bin/Debug/net5.0/lesson10.runtimeconfig.dev.json
+/home/jamol/bootcamp-1-main/lesson10/bin/Debug/net5.0/lesson10.dll
+/home/jamol/bootcamp-1-main/lesson10/bin/Debug/net5.0/ref/lesson10.dll
+/home/jamol/bootcamp-1-main/lesson10/bin/Debug/net5.0/lesson10.pdb
+/home/jamol/bootcamp-1-main/lesson10/obj/Debug/net5.0/lesson10.csproj.AssemblyReference.cache
+/home/jamol/bootcamp-1-main/lesson10/obj/Debug/net5.0/lesson10.GeneratedMSBuildEditorConfig.editorconfig
+/home/jamol/bootcamp-1-main/lesson10/obj/Debug/net5.0/lesson10.AssemblyInfoInputs.cache
+/home/jamol/bootcamp-1-main/lesson10/obj/Debug/net5.0/lesson10.AssemblyInfo.cs
+/home/jamol/bootcamp-1-main/lesson10/obj/Debug/net5.0/lesson10.csproj.CoreCompileInputs.cache
+/home/jamol/bootcamp-1-main/lesson10/obj/Debug/net5.0/lesson10.dll
+/home/jamol/bootcamp-1-main/lesson10/obj/Debug/net5.0/ref/lesson10.dll
+/home/jamol/bootcamp-1-main/lesson10/obj/Debug/net5.0/lesson10.pdb
+/home/jamol/bootcamp-1-main/lesson10/obj/Debug/net5.0/lesson10.genruntimeconfig.cache
